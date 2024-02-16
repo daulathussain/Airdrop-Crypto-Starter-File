@@ -2,7 +2,7 @@
 
 @theblockchaincoders
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/01/create-token-liquidity-marketplace.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2024/02/build-and-deploy-airdrop-crypto-token.jpg)
 
 How to Build and Deploy a Crypto Airdrop Token
 
