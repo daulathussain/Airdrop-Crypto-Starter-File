@@ -8,11 +8,13 @@ Looking to launch your own crypto airdrop token? Learn the ropes with our compre
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2024/02/build-and-deploy-airdrop-crypto-token.jpg)
 
-## Instruction
-
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
+
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-crypto-airdrop-token-dapp-using-nextjs-solidity-metamass-and-smart-contract-2024)
+
 #### Setup Video
+- [Final Code Setup video](https://www.youtube.com/watch?v=rwfh8yAUY3o)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
